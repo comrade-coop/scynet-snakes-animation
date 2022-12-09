@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.16.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "glob": "^7.1.1",
     "lodash": "^4.17.4",
     "p5": "^0.7.2",
